@@ -1,0 +1,21 @@
+print
+
+insert AAA
+insert ACAC
+insert ACCA
+insert TACA
+insert TACA
+
+print
+
+search A$
+search A
+search TA
+search TAGGG
+
+
+remove A
+remove ACACTT
+print
+remove AAA
+print
